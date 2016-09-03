@@ -1,4 +1,4 @@
-class Eye {
+
   int ex, ey;
   int size;
   float angle = 0.0;
@@ -23,4 +23,3 @@ class Eye {
     ellipse(size/4, 0, size/2, size/2);
     popMatrix();
   }
-}
