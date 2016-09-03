@@ -23,7 +23,7 @@ void draw(){
   }
   else{
     textSize(32);
-    text("Click Anywhere In the Box", 350, 100);   //if mouse isn't being pressed, display a prompt :"D
+    text("Click Anywhere In the Box", 320, 100);   //if mouse isn't being pressed, display a prompt :"D
   }
   
   //!From here on, anything with a "shake" variable in the coordinates will "shake" when the mouse is pressed
