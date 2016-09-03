@@ -1,3 +1,4 @@
+//Code Written by: Terry Tan
 Eye eRight, eLeft;  //declaring instances of class Eye
 float a = 0;
 float noiseScale = 20;
@@ -81,7 +82,8 @@ void draw(){
 }
 
 
-
+//Code below is NOT written by Terry Tan
+//Source code can be found here: http://processingjs.org/learning/basic/arctangent/
 
 class Eye{
   int ex, ey;
