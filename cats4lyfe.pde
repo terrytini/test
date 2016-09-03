@@ -4,7 +4,7 @@ float noiseScale = 20;
   
 //setting up some stuff
 void setup(){
-  //size(1000,1000);
+  size(1000,1000);
   fullScreen();
   eRight = new Eye(650,450,50);    //initializing right eye
   eLeft = new Eye(350,450,50);     //initializing left eye
